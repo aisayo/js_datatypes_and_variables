@@ -1,3 +1,14 @@
+
+
+
+
+// READING ERRORS -------------------------------------------
+// console.log(student)
+// ReferenceError: student is not defined
+
+// let test name = "aysan"
+// SyntaxError: Unexpected identifier
+
 // let name = "aysan"
 // let name = "bob"
 // SyntaxError: Identifier 'name' has already been declared

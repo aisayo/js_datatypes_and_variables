@@ -1,6 +1,6 @@
 # JavaScript Data Types and Variables
 
-### Deliverables
+### Goals
 - Utilizing `console.log()` for testing
 - Identify JS Data Types
 - Define variables using let vs const 
@@ -20,3 +20,9 @@
 - Variable scopes 
 - Identifying and reading variable errors
 
+#### Conditionals
+- Writing conditional statements with:
+ - If, else and else if 
+ - Ternary operators 
+ - Switch statements
+- Use logical operators

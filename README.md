@@ -11,4 +11,12 @@
 #### Identify JS Data Types 
 - What are the 8 data types used in JS?
 - How to use `typeof`
-- 
+- Primitive vs Non-Primitive data types
+- Operating on data using operators 
+
+#### JavaScript Variables
+- Difference between `let` vs `const`
+- How to properly name variables
+- Variable scopes 
+- Identifying and reading variable errors
+

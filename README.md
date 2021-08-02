@@ -22,7 +22,7 @@
 
 #### Conditionals
 - Writing conditional statements with:
- - If, else and else if 
- - Ternary operators 
- - Switch statements
+    - If, else and else if 
+    - Ternary operators 
+    - Switch statements
 - Use logical operators

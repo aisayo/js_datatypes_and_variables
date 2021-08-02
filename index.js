@@ -1,12 +1,8 @@
-//---- CONSOLE ----//
-// Go over console in dev tools 
-// Discuss gotcha's in console's i.e variable redeclarations allowed
-// Best practice to code in JS file and run files in console
-
 //---- DATA TYPES ----//
 // Go over different data types:
-// 8 basic data types in JS
-// String - What are the three ways we can define a string?
+// What are the different data types we can work with in JS?
+// 8 basic data types in JS:
+// String 
 // Number 
 // Boolean
 // BigInt - A BigInt number is created by appending n to the end of an integer
@@ -14,6 +10,8 @@
 // Symbols
 // Null
 // Undefined
+
+// What are the three ways we can define a string?
 
 // console.log(typeof "Hello World!") //string
 // console.log(typeof 3) // number
@@ -30,12 +28,13 @@
 // What is a primitive data type? a datatype that can only store a single piece of data
 
 // Of the data types we went over, which one is not considered a primitive data type
-// Object
+// Object - non-primitive
 
-// Why is an object not a primitive? Can store collections of data
+// Why is an object not a primitive? 
+// Can store collections of data
 
 //---- OPERATORS ----//
-// x = y is assignment
+// What do we use to assign values? x = y (assignment)
 // x += y addition assignment
 // 1 + 1 // returns 2 
 // "1" + 1 // returns 11
@@ -57,7 +56,6 @@
 // Add/Subtract
 // console.log("Thing" + 1); // "Thing1"
 // console.log("Thing" - 1); // NaN
-
 
 //---- VARIABLES ----//
 // what is a variable?
@@ -104,3 +102,26 @@
 // const cat = 'rose'
 // cat = 'timmy'
 // TypeError: Assignment to constant variable.
+
+
+//---- CONDITIONALS ----//
+
+// Write a conditional 
+
+// if (true) {
+//     // return something
+// } else {
+//     // return something
+// }
+
+// if (condition) {
+//     // return something
+// } else if (condition){
+//     // return something
+// } else {
+    // return something
+// }
+
+// ternary operator 
+
+// (condition) ? true : false

@@ -4,6 +4,10 @@
 
 ## Segment 1:
 
+### Introduction - (5 minutes)
+
+Introduce students to the lecture style. Here we can discuss classroom etiquette. Make students feel comfortable and build a positive culture for learning. Encourage students to be present and participant in their learning experience. Provide students with a repository and go over git flow to provide context on how to utilize repositories. Go over best practices for following along lectures. Allow students the option to code along however discuss the pros and cons of missing information if student becomes stuck on an error if they are coding along.
+
 ### The Set up - (5 minutes)
 
 Take a second to go over our file structure.
@@ -21,5 +25,5 @@ Debugging is most of development, our lectures should have a number of built in 
 
 `Errors`, `Console.log` and `debugger` are our new best friends.
 
-Add some code that will error out to your index.js and walk students through the error.
-What is this error trying to tell us? What line is our error at? What is “Uncaught ReferenceError” What does “cat is not defined” mean?
+Console:
+Go over console in dev tools and discuss gotcha's in console's i.e variable redeclarations allowed. Best practice to code in JS file and run files in console
